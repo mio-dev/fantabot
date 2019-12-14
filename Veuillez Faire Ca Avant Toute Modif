@@ -1,0 +1,10 @@
+Installer Node.JS
+Une fois instaler, veuillez ouvrir nodejs prompt
+Entrer les commandes :
+    npm i --s discord.js
+    npm i --s fs
+    npm i moment
+    
+Ensuite vous pouvez modifier le bot
+
+Bonne chance !
