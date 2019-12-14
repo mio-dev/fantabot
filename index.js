@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
 
-client.login('NjUxNTM4NjI5Mjc3MjUzNjcx.XebYIw.jfQUglLou2yUbJYUpSCUTZn2Gu0');
+client.login('Venez priver pour avoir le token --> Mio_Developpeur#5183');
 
 client.commands = new Discord.Collection();
 
